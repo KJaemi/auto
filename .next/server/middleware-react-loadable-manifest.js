@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"components\\\\Hero3D.tsx -> @react-three/fiber":{"id":961,"files":["static/chunks/496.85d010a00711cd8d.js"]}}';

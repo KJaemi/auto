@@ -1,0 +1,10 @@
+{
+  "/api/contact/route": "app/api/contact/route.js",
+  "/page": "app/page.js",
+  "/community/page": "app/community/page.js",
+  "/ir/page": "app/ir/page.js",
+  "/technology/page": "app/technology/page.js",
+  "/company/page": "app/company/page.js",
+  "/solutions/page": "app/solutions/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}
